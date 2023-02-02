@@ -1,0 +1,1 @@
+python ./baseline.py --gpu 0 --test_env 0 --max_epoch 100 --logs test0
